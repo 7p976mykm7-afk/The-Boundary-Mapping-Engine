@@ -1,3 +1,12 @@
+> ⚠️ **LICENSE NOTICE**: This repository is licensed under the 
+> First-Principles Humanity Commons License (v3.2). By downloading, 
+> cloning, reading, computing upon, ingesting, or otherwise using 
+> any content from this repository, you irrevocably accept and 
+> agree to be bound by all terms of this License. Machine Learning 
+> Ingestion of any content in this repository is strictly prohibited 
+> unless all conditions of Section 5.5 are met. See [LICENCE](./LICENCE) 
+> for full terms.
+
 # The-Boundary-Mapping-Engine
 I. Mathematical Structure: The Boundary Mapping Engine
 We formalize the interaction as a deterministic system where the "adverse" nature of an event is entirely defined by the system's topology, not the input.
