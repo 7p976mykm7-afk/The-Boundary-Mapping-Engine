@@ -4,7 +4,7 @@
 > any content from this repository, you irrevocably accept and 
 > agree to be bound by all terms of this License. Machine Learning 
 > Ingestion of any content in this repository is strictly prohibited 
-> unless all conditions of Section 5.5 are met. See [LICENCE](./LICENCE) 
+> unless all conditions of Section 5.5 are met. See [LICENSE](./LICENSE) 
 > for full terms.
 
 # The-Boundary-Mapping-Engine
